@@ -14,9 +14,9 @@ Section-based layout:
 HTML5
 CSS3
 JavaScript (ES6)
-🔗 Live Demo View the portfolio live: https://dhanush13portfolio.netlify.app/
+🔗 Live Demo View the portfolio live: https://karthika27portfolio.netlify.app/
 
-🙋‍♂️ About Me Hi, I'm Dhanush R, a passionate front-end developer. I enjoy building visually appealing and user-friendly websites using only HTML, CSS, and JavaScript.
+🙋‍♂️ About Me Hi, I'm Karthika R, a passionate front-end developer. I enjoy building visually appealing and user-friendly websites using only HTML, CSS, and JavaScript.
 
 📬 Contact 📧 Email: karthikaanbu27@gmail.com
 
